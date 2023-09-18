@@ -1,0 +1,28 @@
+export const images: any = {
+  bgImage: require('./images/splash.png'),
+  logo: require('./images/logo.png'),
+  profile: require('./images/round.png'),
+  icons: require('./images/icons.png'),
+  introicon: require('./images/introicon.png'),
+  intropic: require('./images/intropic.png'),
+  one: require('./images/one.png'),
+  two: require('./images/two.png'),
+  three: require('./images/three.png'),
+  four: require('./images/four.png'),
+  five: require('./images/five.png'),
+  six: require('./images/six.png'),
+  seven: require('./images/seven.png'),
+  eight: require('./images/eight.png'),
+  scoreImg: require('./images/scoreImg.png'),
+};
+export const Colors: any = {
+  textOrange: '#FD751F',
+  bgWhite: '#fff',
+  bgBlack:'#000000',
+  gray:'#6F6F6F',
+  borderColor:'#F0F0F0',
+  lightgray:'lightgray',
+  bgGray:'#D9D9D9',
+  text:'#9B9B9B',
+  lightGray:'#F6F6F6',
+};
